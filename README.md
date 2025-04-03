@@ -32,18 +32,16 @@
   <a href="https://codeforces.com/profile/AmitPandey-AP" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/> 
   </a>
-<!--   <a href="https://leetcode.com/u/ansh_iet_22/" target="_blank">
-    <img src="https://icons.coreui.io/icons/brand/leetcode/" alt="Leetcode"/> 
-  </a> -->
+
 </p>  
 
 
 <h2 align = "center"> 📫 Reach me on 📫 </h2>
 <p align = "center"> 
-  <a  href = "https://www.linkedin.com/in/anshul-pandey-b5316824a/" target = "_blank"> 
-    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "-abhishek-srivastava" />
+  <a  href = "https://www.linkedin.com/in/amit-pandey-37810b259/" target = "_blank"> 
+    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "-amit-pandey" />
   </a>
-  <a href = "mailto:pandeyanshul2004@gmail.com" target = "_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "pandeyanshul20004" />
+  <a href = "mailto:pandeyamit5969@gmail.com" target = "_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "pandeyamit5969" />
   </a>
 </p>
